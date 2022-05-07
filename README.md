@@ -22,7 +22,7 @@
 <a href="https://github.com/jhonatan2022">
 <img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
 </a>
-</p><br>
+</p><br><br>
 
 <p align="center">
 <a href="https://github.com/jhonatan2022">
