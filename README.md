@@ -21,8 +21,9 @@
 <hr>
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan2022)
+<h4>Top langs :tongue:</h4>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan2022&langs_count=10&theme=tokyonight&layout=compact" alt="Jhonattan Florez :: Top Langs" /></p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=jhonatan2022&show_icons=true)
-
+<h4>Profile stats :musical_keyboard:</h4>
+<p><img src="https://github-readme-stats.vercel.app/api?username=jhonatan2022&show_icons=true&theme=synthwave" alt="Jhonatan Florez :: Profile Stats" width="400" /></p>
 <hr>
