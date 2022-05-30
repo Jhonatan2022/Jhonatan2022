@@ -1,4 +1,4 @@
-## Jhonattan Florez <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+## Jhonattan Florez <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="35">
 
 [![](https://img.shields.io/badge/Gmail-jdflorez038@misena.edu.co-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
