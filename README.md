@@ -3,13 +3,15 @@
 [![](https://img.shields.io/badge/Gmail-jdflorez038@misena.edu.co-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
 <p align="center">
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="javascript"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/HTML-ff5003.svg?style=for-the-badge&logo=HTML5&logoColor=ff5003&labelColor=ffffff" alt="HTML"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/CSS3-264de4.svg?style=for-the-badge&logo=Css3&logoColor=0768a8&labelColor=ffffff" alt="CSS3"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/python-646464.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/JS-b57c00.svg?style=for-the-badge&logo=javascript&logoColor=b57c00&labelColor=ffffff" alt="javascript"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="PHP"></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/Mysql-f29111.svg?style=for-the-badge&logo=mysql&logoColor=ff5003&labelColor=ffffff" alt="mysql"></a>
 </p>
 
 <p align="center">
