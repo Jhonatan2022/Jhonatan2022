@@ -3,6 +3,7 @@
 [![](https://img.shields.io/badge/Gmail-jdflorez038@misena.edu.co-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
 <p align="center">
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/Terminal-000000.svg?style=for-the-badge&logo=powershell&logoColor=000000&labelColor=ffffff" alt="HTML"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/HTML-ff5003.svg?style=for-the-badge&logo=HTML5&logoColor=ff5003&labelColor=ffffff" alt="HTML"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/CSS3-264de4.svg?style=for-the-badge&logo=Css3&logoColor=0768a8&labelColor=ffffff" alt="CSS3"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/python-646464.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
