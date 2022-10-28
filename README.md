@@ -20,3 +20,4 @@
 
 ![](https://streak-stats.demolab.com?user=Jhonatan2022&theme=highcontrast&border_radius=10&date_format=j%2Fn%5B%2FY%5D)
 <hr>
+[![trophy](https://github-profile-trophy.vercel.app/?username=jhonatan2022&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
