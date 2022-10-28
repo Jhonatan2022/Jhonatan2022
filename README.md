@@ -1,5 +1,7 @@
 ## Jhonattan Florez <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="35">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jhonatan2022&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![](https://img.shields.io/badge/Gmail-jdflorez038@misena.edu.co-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
 ![](https://img.shields.io/badge/Terminal-000000.svg?style=for-the-badge&logo=powershell&logoColor=000000&labelColor=ffffff)
@@ -20,4 +22,4 @@
 
 ![](https://streak-stats.demolab.com?user=Jhonatan2022&theme=highcontrast&border_radius=10&date_format=j%2Fn%5B%2FY%5D)
 <hr>
-[![trophy](https://github-profile-trophy.vercel.app/?username=jhonatan2022&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
