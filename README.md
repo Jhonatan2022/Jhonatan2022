@@ -12,6 +12,7 @@
 ![](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff)
 ![](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff)
 
+
 <hr>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JHONATAN2022&langs_count=11&show_icons=true&line_height=20&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact)
