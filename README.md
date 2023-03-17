@@ -2,16 +2,22 @@
 
 [![](https://img.shields.io/badge/Gmail-jdflorez038@misena.edu.co-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
-![](https://img.shields.io/badge/Terminal-000000.svg?style=for-the-badge&logo=powershell&logoColor=000000&labelColor=ffffff)
-![](https://img.shields.io/badge/Mysql-f29111.svg?style=for-the-badge&logo=mysql&logoColor=ff5003&labelColor=ffffff)
-![](https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff)
-![](https://img.shields.io/badge/JS-b57c00.svg?style=for-the-badge&logo=javascript&logoColor=b57c00&labelColor=ffffff)
-![](https://img.shields.io/badge/python-646464.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff)
-![](https://img.shields.io/badge/CSS3-264de4.svg?style=for-the-badge&logo=Css3&logoColor=0768a8&labelColor=ffffff)
-![](https://img.shields.io/badge/HTML-ff5003.svg?style=for-the-badge&logo=HTML5&logoColor=ff5003&labelColor=ffffff)
-![](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff)
-![](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff)
-
+### 💻 Languages and Tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3"width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visual studio" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="visual studio code" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter NoteBook" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
+</div>
 
 <hr>
 
