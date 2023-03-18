@@ -21,10 +21,10 @@
 
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHONATAN2022&langs_count=10&show_icons=true&line_height=20&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHONATAN2022&langs_count=10&show_icons=true&line_height=20&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api?username=Jhonatan2022&show_icons=true&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40)
+![](https://github-readme-stats.vercel.app/api?username=Jhonatan2022&show_icons=true&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jhonatan2022&theme=vision-friendly-dark&hide_border=cierto&border_radius=5&date_format=j%2Fn%5B%2FY%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=jhonatan2022&theme=vision-friendly-dark&hide_border=cierto&border_radius=5&date_format=j%2Fn%5B%2FY%5D&hide_border=true)
 <hr>
 
