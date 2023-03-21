@@ -29,3 +29,5 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=jhonatan2022&theme=vision-friendly-dark&hide_border=cierto&border_radius=5&date_format=j%2Fn%5B%2FY%5D&hide_border=true)
 <hr>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhonatan2022&bg_color=000000&color=ffffff&line=fff700&point=0040ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
