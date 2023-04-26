@@ -42,8 +42,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Jhonatan2022&show_icons=true&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jhonatan2022&theme=vision-friendly-dark&hide_border=cierto&border_radius=5&date_format=j%2Fn%5B%2FY%5D&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jhonatan2022&card_width=500&background=0,000000,130F40&dates=EBEBEB&border=EB545400&stroke=FFFFFF&ring=FF0000&fire=FF0000&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=FF0000&sideLabels=48F5FF)
 <hr>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhonatan2022&bg_color=000000&color=ffffff&line=fff700&point=0040ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhonatan2022&bg_color=070623&color=ffffff&line=ffffff&point=0091ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
