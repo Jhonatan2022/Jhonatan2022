@@ -37,8 +37,8 @@
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHONATAN2022&langs_count=10&show_icons=true&line_height=20&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact&hide_border=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jhonatan2022&theme=nightowl&utcOffset=8)
 
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jhonatan2022&theme=nightowl&utcOffset=8) -->
 
 ![](https://github-readme-stats.vercel.app/api?username=Jhonatan2022&show_icons=true&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true)
 
