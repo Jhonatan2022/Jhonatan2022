@@ -1,7 +1,7 @@
-## Jhonattan Florez <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="35"> 
+## Jhonattan Florez <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="35"> <a href="mailto:florezj328@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Jhonattan Florez"/> </a>
 
-### Visit my <a href="https://jhonatan2022.github.io/">Personal Blog</a>, under development. [![](https://img.shields.io/badge/Gmail-Florezj328@gmail.com-blue)](https://mail.google.com/mail/u/0/?tab=km#inbox)
-
+### Visit my <a href="https://jhonatan2022.github.io/">Personal Blog</a>, under development. 
+ 
 ## Skills 💻
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
