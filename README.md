@@ -44,4 +44,4 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jhonatan2022&card_width=500&background=0,000000,130F40&dates=EBEBEB&border=EB545400&stroke=FFFFFF&ring=FF0000&fire=FF0000&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=FF0006&sideLabels=48F5FF)
 <hr>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhonatan2022&bg_color=070623&color=ffffff&line=ffffff&point=0091ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JHONATAN2022&bg_color=070623&color=ffffff&line=ffffff&point=0091ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
