@@ -2,7 +2,10 @@
 
 ### Visit my <a href="https://jhonatan2022.github.io/">Personal Blog</a>, under development. 
  
-## Skills 💻
+ <details>
+<summary><strong style="font-size: 20px;">SKILLS 🌟✍️💻</strong></summary>
+ 
+## Skills 💻 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3"width="40" height="40"/>
@@ -30,6 +33,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind Css" width="40" height="40"/>  
 </div>
+</details>
+
 
 <hr>
 
