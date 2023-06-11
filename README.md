@@ -53,5 +53,7 @@
 
 ```py
 print("Hello World")
-nombre = print(input("ingrese su nombre"))
+nombre = input("Ingrese su nombre: ")
+saludo = "Hola {}, que te diviertas".format(nombre)
+print(saludo)
 ```
