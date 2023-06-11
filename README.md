@@ -53,4 +53,5 @@
 
 ```py
 print("Hello World")
+nombre = print(input("ingrese su nombre"))
 ```
