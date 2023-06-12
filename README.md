@@ -36,11 +36,9 @@
 </div>
 </details>
 
-
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHONATAN2022&langs_count=10&show_icons=true&line_height=20&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact&hide_border=true)
-
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jhonatan2022&theme=nightowl&utcOffset=8) -->
 
 ![](https://github-readme-stats.vercel.app/api?username=Jhonatan2022&show_icons=true&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true)
@@ -49,11 +47,3 @@
 <hr>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JHONATAN2022&bg_color=070623&color=ffffff&line=ffffff&point=0091ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-```py
-print("Hello World")
-nombre = input("Ingrese su nombre: ")
-saludo = "Hola {}, que te diviertas".format(nombre)
-print(saludo)
-```
