@@ -50,5 +50,5 @@
 
 
 ```js
-consolé.log("hola mundo"
+console.log(input("Dime algo: "))
 ```
