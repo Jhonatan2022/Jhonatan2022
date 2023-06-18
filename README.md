@@ -50,5 +50,6 @@
 
 
 ```js
-console.log(input("Dime algo: "))
+var algo = prompt("Dime algo: ")
+console.log(algo)
 ```
