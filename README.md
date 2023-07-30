@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="35"> <a href="https://www.linkedin.com/in/jhonattan-florez/"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Jhonattan Florez"  width="40"/> </a>
+<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="35">
 
  
  <details>
