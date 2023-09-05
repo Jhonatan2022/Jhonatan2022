@@ -15,19 +15,18 @@ I like programming <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/gi
 
 ## Tools 🧰
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgresSQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>
+  
 </div>
 
 ## Skills in learning 🧑‍🎓
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" height="40">
 </div>
 </details>
 
