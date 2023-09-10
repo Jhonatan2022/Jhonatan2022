@@ -36,4 +36,3 @@ I like programming <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/gi
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jhonatan2022&theme=nightowl&utcOffset=8) -->
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jhonatan2022&card_width=500&background=0,000000,130F40&dates=EBEBEB&border=EB545400&stroke=FFFFFF&ring=FF0000&fire=FF0000&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=FF0006&sideLabels=48F5FF)
-<hr>
