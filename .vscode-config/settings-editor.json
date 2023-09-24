@@ -1,0 +1,56 @@
+{
+    "editor.inlineSuggest.enabled": true,
+    "workbench.colorTheme": "SynthWave '84",
+    "files.autoSave": "afterDelay",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.overviewRulerBorder": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.guides.indentation": false,
+    "indenticator.width": 0.1,
+    "indenticator.color.dark": "rgba(255, 255, 255, 0.20)",
+    "comment": "Activamos el WordWrap",
+    "editor.wordWrap": "on",
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": true,
+        "scminput": false
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.matchBrackets": false,
+    "pasteImage.defaultName": "name",
+    "pasteImage.showFilePathConfirmInputBox": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.autofetch": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "phpserver.phpConfigPath": "C:\\xampp\\php\\php.ini",
+    "phpserver.phpPath": "C:\\xampp\\php\\php.exe",
+    "terminal.integrated.env.windows": {},
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "[sql]": {
+        "editor.defaultFormatter": "adpyke.vscode-sql-formatter"
+    },
+    "terminal.integrated.tabs.location": "left",
+    "terminal.integrated.tabs.enabled": false,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "githubPullRequests.pullBranch": "never",
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "window.zoomLevel": 1,
+    "editor.fontLigatures": false
+}
