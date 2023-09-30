@@ -8,7 +8,6 @@
     "editor.guides.indentation": false,
     "indenticator.width": 0.1,
     "indenticator.color.dark": "rgba(255, 255, 255, 0.20)",
-    "comment": "Activamos el WordWrap",
     "editor.wordWrap": "on",
     "github.copilot.enable": {
         "*": true,
@@ -30,8 +29,6 @@
     },
     "git.autofetch": true,
     "security.workspace.trust.untrustedFiles": "open",
-    "phpserver.phpConfigPath": "C:\\xampp\\php\\php.ini",
-    "phpserver.phpPath": "C:\\xampp\\php\\php.exe",
     "terminal.integrated.env.windows": {},
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter"
@@ -45,9 +42,6 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "githubPullRequests.pullBranch": "never",
-    "[php]": {
-        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
-    },
     "[json]": {
         "editor.defaultFormatter": "vscode.json-language-features"
     },
