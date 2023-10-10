@@ -46,5 +46,6 @@
         "editor.defaultFormatter": "vscode.json-language-features"
     },
     "window.zoomLevel": 1,
-    "editor.fontLigatures": false
+    "editor.fontLigatures": false,
+    "wakatime.apiKey": "waka_66f94324-7363-4fa5-a8d4-956247a01fc2",
 }

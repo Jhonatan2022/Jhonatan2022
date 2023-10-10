@@ -32,10 +32,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHONATAN2022&langs_count=10&show_icons=true&line_height=20&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact&hide_border=true)
 
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jhonatan2022&theme=nightowl&utcOffset=8) -->
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jhonatan2022&card_width=500&background=0,000000,130F40&dates=EBEBEB&border=EB545400&stroke=FFFFFF&ring=FF0000&fire=FF0000&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=FF0006&sideLabels=48F5FF)
-
-
-
-ccccc
