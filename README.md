@@ -1,5 +1,5 @@
 <details>
-<summary><strong style="font-size: 20px;"> SKILLS 🌟 </strong></summary>
+<summary><strong style="font-size: 20px;"> SKILLS 🌟</strong></summary>
  
 ## Skills 💻 
 <div>
