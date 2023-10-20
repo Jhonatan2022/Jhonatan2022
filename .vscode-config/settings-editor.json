@@ -1,6 +1,5 @@
 {
     "editor.inlineSuggest.enabled": true,
-    "workbench.colorTheme": "SynthWave '84",
     "files.autoSave": "afterDelay",
     "editor.scrollbar.vertical": "hidden",
     "editor.overviewRulerBorder": false,
@@ -10,42 +9,64 @@
     "indenticator.color.dark": "rgba(255, 255, 255, 0.20)",
     "editor.wordWrap": "on",
     "github.copilot.enable": {
-        "*": true,
-        "plaintext": true,
-        "markdown": true,
-        "scminput": false
-    },
-    "[html]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      "*": true,
+      "plaintext": false,
+      "markdown": true,
+      "scminput": false,
+      "yaml": false
     },
     "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "editor.matchBrackets": false,
+    "editor.matchBrackets": "never",
     "pasteImage.defaultName": "name",
     "pasteImage.showFilePathConfirmInputBox": true,
-    "[javascriptreact]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
+  
     "git.autofetch": true,
     "security.workspace.trust.untrustedFiles": "open",
     "terminal.integrated.env.windows": {},
-    "[python]": {
-        "editor.defaultFormatter": "ms-python.black-formatter"
-    },
-    "[sql]": {
-        "editor.defaultFormatter": "adpyke.vscode-sql-formatter"
-    },
     "terminal.integrated.tabs.location": "left",
     "terminal.integrated.tabs.enabled": false,
     "[css]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "explorer.confirmDragAndDrop": false,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
     "githubPullRequests.pullBranch": "never",
-    "[json]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
     "window.zoomLevel": 1,
-    "editor.fontLigatures": false,
-    "wakatime.apiKey": "waka_66f94324-7363-4fa5-a8d4-956247a01fc2",
-}
+    "terminal.integrated.env.linux": {},
+    "wakatime.apiKey": "",
+    "launch": {
+      "configurations": [],
+      "compounds": []
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+      "source.formatDocument": true
+    },
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "console-ninja.featureSet": "Pro",
+    "workbench.colorTheme": "SynthWave '84",
+    "[markdown]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }
+  
