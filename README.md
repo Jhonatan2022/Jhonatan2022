@@ -22,6 +22,8 @@
   
 </div>
 
+<!-- <img src="" title="" /> -->
+
 ## Skills in learning 🧑‍🎓
 
 <div>
