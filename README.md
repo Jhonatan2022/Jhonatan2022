@@ -28,7 +28,7 @@
 
 <div>
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" width="40" height="40"/> -->
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" height="40">
+<!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" height="40"> -->
  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' title='Typescript' height='40'>
 </div>
 </details>
