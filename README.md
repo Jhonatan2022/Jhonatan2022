@@ -1,7 +1,7 @@
 <details>
-<summary><strong style="font-size: 20px;"> SKILLS🌟</strong></summary>
+<summary><strong> SKILLS🌟</strong></summary>
  
-## Skills 💻 
+### Skills 💻 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"  title="CSS3"width="40" height="40"/>
@@ -12,22 +12,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>
 </div>
 
-## Tools 🧰
+### Tools 🧰
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgresSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>
-  
 </div>
-
 <!-- <img src="https://raw.githubusercontent" title="" /> -->
 
-## Skills in learning 🧑‍🎓
+### Skills in learning 🧑‍🎓
 
 <div>
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" width="40" height="40"/> -->
 <!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" height="40"> -->
  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' title='Typescript' height='40'>
  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg' title='Figma' height='40'>
