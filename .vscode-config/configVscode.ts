@@ -36,7 +36,7 @@ const CONFIG_VSCODE = {
   'githubPullRequests.pullBranch': 'never',
   'window.zoomLevel': 1,
   'terminal.integrated.env.linux': {},
-  'wakatime.apiKey': 'waka_7a410873-617f-424b-993a-0ef8faa07ef5',
+  'wakatime.apiKey': '',
   launch: {
     configurations: [],
     compounds: []
