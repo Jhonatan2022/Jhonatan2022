@@ -34,16 +34,16 @@ const CONFIG_VSCODE = {
   'liveServer.settings.donotVerifyTags': true,
   'liveServer.settings.donotShowInfoMsg': true,
   'githubPullRequests.pullBranch': 'never',
-  'window.zoomLevel': 1.1,
+  'window.zoomLevel': 1,
   'terminal.integrated.env.linux': {},
-  'wakatime.apiKey': '',
+  'wakatime.apiKey': 'waka_7a410873-617f-424b-993a-0ef8faa07ef5',
   launch: {
     configurations: [],
     compounds: []
   },
   'editor.codeActionsOnSave': {
-    'source.fixAll.eslint': true,
-    'source.formatDocument': true
+    'source.fixAll.eslint': 'explicit',
+    'source.formatDocument': 'explicit'
   },
   '[json]': {
     'editor.defaultFormatter': 'esbenp.prettier-vscode'
@@ -62,5 +62,9 @@ const CONFIG_VSCODE = {
   '[html]': {
     'editor.defaultFormatter': 'esbenp.prettier-vscode'
   },
-  'workbench.colorTheme': "SynthWave '84"
+  'workbench.colorTheme': "SynthWave '84",
+  '[typescript]': {
+    'editor.defaultFormatter': 'esbenp.prettier-vscode'
+  },
+  'console-ninja.featureSet': 'Community'
 }
