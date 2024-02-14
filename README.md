@@ -30,7 +30,6 @@
 <div>
 <!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" height="40"> -->
  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg' title='Figma' height='40'>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" title="Flask" width="40" height="40"/>
 </div>
 </details>
 <hr>
