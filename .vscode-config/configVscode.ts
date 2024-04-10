@@ -18,7 +18,7 @@ const CONFIG_VSCODE = {
   '[javascript]': {
     'editor.defaultFormatter': 'esbenp.prettier-vscode'
   },
-  'editor.matchBrackets': false,
+  'editor.matchBrackets': 'never',
   'pasteImage.defaultName': 'name',
   'pasteImage.showFilePathConfirmInputBox': true,
 
