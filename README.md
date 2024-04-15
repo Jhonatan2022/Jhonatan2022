@@ -23,8 +23,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgresSQL" width="40" height="40"/>
 </div>
 
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/" title="" /> -->
-
 ### Skills in learning 🧑‍🎓
 
 <div>
