@@ -66,5 +66,7 @@ const CONFIG_VSCODE = {
   '[typescript]': {
     'editor.defaultFormatter': 'esbenp.prettier-vscode'
   },
-  'console-ninja.featureSet': 'Community'
+  'console-ninja.featureSet': 'Community',
+  'diffEditor.ignoreTrimWhitespace': false,
+  'git.enableSmartCommit': true
 }
